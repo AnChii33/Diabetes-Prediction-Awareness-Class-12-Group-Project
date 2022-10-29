@@ -3,7 +3,7 @@
 -----------------------------------------------------------------------------------------------------
 **Team Members:**
 
- Under the Guidance of ``Santanu Chakraborty`` Sir,
+ **Under the Guidance of ``Santanu Chakraborty`` Sir,**
         
   -``Aditya Lahiri``
                 
@@ -11,9 +11,9 @@
                 
   -``Anushka Chatterjee``
 
------------------------------------------------------------------------------------------------------
-
 **In collaboration with** [``Mandra Saptak Mandal``](https://github.com/MSM74588)
+
+-----------------------------------------------------------------------------------------------------
 
 **Topic:** ``Diabetes Prediction, Detection & Awareness``
 
