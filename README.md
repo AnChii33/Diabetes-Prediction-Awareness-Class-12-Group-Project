@@ -1,4 +1,6 @@
-# Class-12-CBSE-Boards-2022-Group-Project
+# Diabetes Prediction & Awareness Application
+
+## Class-12-CBSE-Boards-2022-Group-Project
 
 -----------------------------------------------------------------------------------------------------
 **Team Members:**
